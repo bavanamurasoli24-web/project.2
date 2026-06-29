@@ -1,19 +1,5 @@
 ---
 
-## 📊 KPI Definitions
-
-| KPI | Definition | Why it matters |
-|---|---|---|
-| **Total Energy Generated** | Sum of all energy produced across plants | Measures overall production scale |
-| **Total Energy Consumed** | Sum of all energy used/demanded | Tracks demand against supply |
-| **Average Plant Efficiency** | Mean efficiency score across active plants | Flags operational health |
-| **Utilization Rate** | Consumed ÷ Generated | Shows how much of the supply is actually used |
-| **Renewable Source Contribution %** | Share of total generation from renewable sources | Tracks sustainability progress |
-| **Power Deficit Rate** | Frequency/magnitude of consumption exceeding generation | Highlights supply risk |
-| **Active Plants** | Count of currently operational plants | Indicates infrastructure scale |
-| **Region Performance Score** | Composite ranking of regions by output and efficiency | Directs investment priorities |
-
----
 
 ## 🖥️ Dashboard Structure
 
